@@ -1,6 +1,6 @@
 {
   "name": "stdinput-js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Read from stdin the usual way",
   "main": "lib/index.js",
   "repository": "https://github.com/Ghamza-Jd/stdin-js.git",
