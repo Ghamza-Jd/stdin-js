@@ -1,5 +1,5 @@
 {
-  "name": "stdin-js",
+  "name": "stdinput-js",
   "version": "1.0.0",
   "description": "Read from stdin the usual way",
   "main": "lib/index.js",

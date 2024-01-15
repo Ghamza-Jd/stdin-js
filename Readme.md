@@ -5,7 +5,7 @@ A library that provide a python like `input` function. Its async so it should be
 ## Example usage
 
 ```js
-import { input, finish } from 'stdin-js';
+import { input } from 'stdinput-js';
 
 async function main() {
     const name = input("What's your name?");
