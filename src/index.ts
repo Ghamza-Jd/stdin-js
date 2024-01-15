@@ -1,6 +1,6 @@
 import readline from 'readline';
 
-const stdinput = (prompt: string) => {
+export const stdinput = (prompt: string) => {
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout,
@@ -13,5 +13,3 @@ const stdinput = (prompt: string) => {
         });
     })
 }
-
-export default stdinput;
