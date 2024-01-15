@@ -1,0 +1,21 @@
+{
+  "name": "stdin-js",
+  "version": "1.0.0",
+  "description": "Read from stdin the usual way",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Ghamza-Jd/stdin-js.git",
+  "author": "Hamza Jadid",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "node",
+    "stdin",
+    "async"
+  ],
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.2"
+  }
+}
